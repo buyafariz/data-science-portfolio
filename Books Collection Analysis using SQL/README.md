@@ -1,6 +1,6 @@
 # **Books Collection Analysis using SQL**
 ## Description
-Sebuah mini project yang saya kerjakan menggunakan SQL. Data yang digunakan dalam data ini adalah data yang saya bangkitkan menggunakan bantuan AI. Data tersebut berisi 15 amatan. Variabel yang akan dianalisis pada project ini terdiri atas judul buku, genre, pengarang, penerbit, tahun terbit, dan harga buku. Penjelasan lebih detail terkait project ini saya tuliskan dalam project brief berikut.
+Sebuah mini project yang saya kerjakan menggunakan SQL. Data yang digunakan dalam project ini adalah data yang saya bangkitkan menggunakan bantuan AI. Data tersebut berisi 15 amatan dan 6 variabel. Variabel yang akan dianalisis pada project ini terdiri atas judul buku, genre, pengarang, penerbit, tahun terbit, dan harga buku. Penjelasan lebih detail terkait project ini saya tuliskan dalam project brief berikut.
 
 ## Project Brief
 ### The Situation:
