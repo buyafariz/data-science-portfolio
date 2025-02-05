@@ -20,4 +20,5 @@ Sebuah mini project yang saya kerjakan menggunakan SQL. Data yang digunakan dala
 - Objective 4 (Analisis data yang hilang)
 - Objective 5 (Analisis harga buku)
 
-Note: Di platform ini, saya hanya menampilkan kode yang saya buat untuk project ini. Penjelasan detail terkait proses analisis yang saya lakukan dapat anda lihat pada laman berikut www.medium.com
+## Note
+Di platform ini, saya hanya menampilkan kode yang saya buat untuk project ini. Penjelasan detail terkait proses analisis yang saya lakukan dapat anda lihat pada laman berikut www.medium.com
