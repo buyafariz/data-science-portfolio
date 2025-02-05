@@ -1,24 +1,24 @@
 # **Books Collection Analysis using SQL**
 ## Description
-Sebuah mini project yang saya kerjakan menggunakan SQL. Data yang digunakan dalam project ini adalah data yang saya bangkitkan menggunakan bantuan AI. Data tersebut berisi 15 amatan dan 6 variabel. Variabel yang akan dianalisis pada project ini terdiri atas judul buku, genre, pengarang, penerbit, tahun terbit, dan harga buku. Penjelasan lebih detail terkait project ini saya tuliskan dalam project brief berikut.
+A mini project involving data analysis using SQL. The dataset used in this project was specifically generated using AI. The dataset consists of 15 observations and 6 variables. The variables to be analyzed in this project consist of book title, genre, author, publisher, year of publication, and book price. I wrote a more detailed explanation of this project in the following project brief.
 
 ## Project Brief
 ### The Situation:
-- Sebuah toko buku memiliki data yang berisi informasi buku yang dijual dalam toko tersebut. Informasi tersebut meliputi judul buku, genre, pengarang, penerbit, tahun terbit, dan harga buku.
-- Pemilik toko ingin memahami lebih baik koleksi buku yang dimiliki, mengidentifikasi tren, dan membuat keputusan yang lebih baik tentang pengadaan buku baru.
-- Oleh karena itu, ia menugaskan seorang analis data untuk menganalisis berdasarkan data yang dimiliki toko buku tersebut.
+- A bookstore has a dataset containing information on books sold in the store. The information includes book title, genre, author, publisher, year of publication, and book price.
+- Store owners want to better understand their book collections, identify trends, and make better decisions about procuring new books.
+- Therefore, he assigned a data analyst to analyze based on the data that the bookstore had.
 
 ### The Assignment:
-- Sebagai seorang Analis data, Anda ditugaskan untuk menganalisis data dalam tabel buku dan memberikan wawasan yang berguna bagi toko buku tersebut.
-- Anda memiliki akses penuh ke tabel buku dan dapat menggunakan query SQL untuk mengekstrak informasi yang Anda butuhkan.
-- Anda diminta menghasilkan laporan yang meringkas temuan utama dan memberikan rekomendasi berdasarkan data.
+- As a data analyst, you are tasked with analyzing the data in the book tables and providing useful insights to the bookstore.
+- You have full access to the book tables and can use SQL queries to extract the information you need.
+- You are required to produce a report that summarizes the key findings and provides recommendations based on the data.
 
 ### The Objective:
-- Objective 1 (identifikasi buku berdasarkan harga)
-- Objective 2 (Analisis distribusi penerbit dan pengarang)
-- Objective 3 (Identifikasi tren tahun terbit)
-- Objective 4 (Analisis data yang hilang)
-- Objective 5 (Analisis harga buku)
+- Objective 1 (Book analysis by price)
+- Objective 2 (Author and publisher analysis)
+- Objective 3 (Book publication year analysis)
+- Objective 4 (Null data detection)
+- Objective 5 (Book price analysis)
 
 ## Note
-Di platform ini, saya hanya menampilkan kode yang saya buat untuk project ini. Penjelasan detail terkait proses analisis yang saya lakukan dapat anda lihat pada laman berikut www.medium.com
+On this platform, I only show the code that I created for this project. You can see a detailed description of my analysis process on the following page: www.medium.com
