@@ -18,5 +18,5 @@ In this project, You played the role of a data analyst at an online movie stream
 - Objective 4 (Analysis of Price Optimization)
 
 ## Note
-On this platform, I only show the code that I created for this project. You can see a detailed description of my analysis process on the following page: www.medium.com
+On this platform, I only show the code that I created for this project. You can see a detailed description of my analysis process on the following page: https://medium.com/@buyaalfariz
 
