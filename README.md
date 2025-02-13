@@ -1,4 +1,4 @@
-# **Buya Al-Fariz's Data Science Portfolio**
+# **Data Science Portfolio**
 
 Hello, terima kasih telah berkunjung! 👋
 
