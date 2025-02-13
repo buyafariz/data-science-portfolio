@@ -1,0 +1,101 @@
+customer_id;name;email;city;signup_date
+1;Charles Galvan;summersjeffrey@yahoo.com;New Lauren;2021-06-05
+2;Zachary Miller;dawncross@hotmail.com;Peterview;2016-07-16
+3;Lauren Smith;michellerogers@yahoo.com;Lake Brittneymouth;2018-04-11
+4;Ryan Wolfe;michaelroberts@young.biz;Deborahborough;2020-01-12
+5;Tanya Ward;lwolf@hotmail.com;North George;2015-09-11
+6;Julia King;vmassey@gmail.com;New Lesliemouth;2016-06-23
+7;Jeffrey Charles;nbecker@gmail.com;West Markhaven;2023-07-11
+8;Paul Clark;justin27@yahoo.com;West Karenport;2021-09-10
+9;Bryan Mack;aprilmorris@rogers.biz;West Carrie;2019-08-23
+10;Monica Taylor;gonzalesashley@yahoo.com;North Bruce;2020-10-23
+11;Joseph Thompson;christiannorris@yahoo.com;South Lisamouth;2024-07-18
+12;Faith Serrano;laura05@clark.org;Danielleside;2024-05-01
+13;Sara Diaz;vegajonathan@mcdonald.org;Stephenside;2024-10-09
+14;Megan Pearson;amorris@gmail.com;West Sarah;2018-05-21
+15;Mary Hamilton;burkejennifer@steele-gonzales.com;New Jessicafort;2020-03-22
+16;Christopher Rodgers;susan76@gmail.com;Jasontown;2025-01-03
+17;Justin Carter;uosborne@wiggins.com;Kevinview;2019-01-04
+18;Derrick Mclean;hbuchanan@gmail.com;Robinsonburgh;2018-02-04
+19;Danielle Brown;lopezpeter@yahoo.com;West John;2022-02-04
+20;Erin May;bakerbrandon@hotmail.com;Allisonshire;2021-11-30
+21;Sara Walsh;sarabyrd@gmail.com;Sawyermouth;2020-01-18
+22;David Williams;qrice@williams.com;Amyland;2019-11-06
+23;Steven Mejia;louishurley@snyder.info;Gibsonport;2024-08-31
+24;Dustin Khan;mckenzie59@gmail.com;Thomasfort;2023-04-03
+25;Kelly Neal;ojohnson@hotmail.com;Suttonfurt;2016-05-02
+26;Matthew Brown;gary74@yahoo.com;Jessicafort;2022-05-05
+27;Heather Beck;lbaker@hotmail.com;Port Donald;2024-07-29
+28;Jordan Braun;carrie46@jimenez-sparks.com;Port Bethhaven;2023-05-08
+29;Michele Stewart;angela31@griffin.net;North Jennifer;2015-10-20
+30;Adam Henry;kim20@garcia.com;Jacobton;2016-02-11
+31;Cynthia Patton PhD;abbottchristopher@yahoo.com;East Ian;2024-11-08
+32;Tammy Daniel;mikemccoy@taylor.com;East Richardstad;2022-07-08
+33;Kim Richardson;steven21@hotmail.com;Marcport;2021-10-14
+34;Michelle Hicks;theresasingleton@medina.com;Deborahtown;2023-09-02
+35;Jason Copeland;lschmitt@burton.com;Mosshaven;2017-04-11
+36;Mrs. Julie Moore;davidsonkelly@hotmail.com;Lorishire;2018-07-07
+37;Joshua Alvarez;sgriffith@hotmail.com;South Madison;2024-08-02
+38;Misty Mccarthy;wroberson@gmail.com;North Stephanieland;2017-04-23
+39;Olivia Lane DDS;brittneyferguson@yahoo.com;East Leah;2020-05-24
+40;Michael Madden;fburns@carlson.com;Lake Timothyburgh;2022-03-26
+41;David Morris;smithbrian@watson-webb.com;Scotthaven;2016-08-08
+42;Brian Tran;aaronmack@saunders.com;Lake Carlfort;2022-08-26
+43;Carrie Vargas;darrellweaver@hotmail.com;West Amy;2016-03-12
+44;Lindsay Humphrey;kgreen@gmail.com;South Paulfurt;2016-02-22
+45;Joel Torres;davidsonisabella@gmail.com;East Robert;2022-08-18
+46;Sara Allen;elizabeth12@collins-jimenez.biz;West Pamelatown;2018-07-28
+47;John Bennett;wongshawn@martin.com;Lake Michaelchester;2023-11-05
+48;Kristina Castillo;wanda20@yahoo.com;North Penny;2023-02-05
+49;Gregory Barrett;robertlewis@yahoo.com;Port Andrew;2020-07-26
+50;Cameron Campbell;christyross@hotmail.com;Victoriaview;2021-12-29
+51;Rebecca Ramirez;kfaulkner@collins-jimenez.info;Carlosville;2019-11-03
+52;Denise Shaw;irobinson@rogers.com;Christytown;2017-12-31
+53;Ms. Sarah Chandler;rachel06@garcia.biz;West Justin;2023-08-01
+54;Kelly Gutierrez;joneschristopher@bryant.org;Port Vanessa;2024-03-04
+55;Kendra Gallegos;amanda82@orozco.biz;Rodriguezmouth;2018-03-23
+56;Deborah Robertson;garciamatthew@christian-carrillo.com;East Stacey;2017-03-01
+57;Shelby Nelson;angela77@pratt-alexander.com;Fraziermouth;2021-02-19
+58;Jessica West;jenkinsclaire@hotmail.com;Port Alex;2019-03-02
+59;Shaun Jenkins;sherri11@clark.biz;Kelseyhaven;2021-07-23
+60;Jessica Duran;alilori@mills.com;Lake Alyssa;2022-12-14
+61;Reginald Thomas;timothyjefferson@bentley.com;North Heatherborough;2023-05-23
+62;Maria Davis;joanne51@yahoo.com;East Christina;2017-01-29
+63;William Wright;christinerojas@brown.org;Port Mary;2017-05-19
+64;Julie Vargas;xgray@yahoo.com;South Frank;2016-02-06
+65;Jason Reid;ismith@stevenson.biz;Terryside;2024-04-05
+66;David Wilson;lynngarrett@gmail.com;South Erinchester;2021-09-16
+67;Yolanda Graham;kelleryvonne@gmail.com;North Susan;2015-07-05
+68;Lisa Heath;justinzamora@gmail.com;Port Amanda;2022-06-15
+69;Travis Randolph;eross@hotmail.com;North Kathryn;2023-06-19
+70;William Owens;xhughes@hotmail.com;Knightstad;2020-08-07
+71;Justin Pitts;alexandra53@jones.com;South Todd;2019-09-15
+72;Victoria Cain;cookemitchell@hotmail.com;Kylebury;2020-12-29
+73;Barbara Brewer;fletcherthomas@macias.org;Lake Frederick;2015-11-15
+74;Aaron Harrison;susan99@kelly-brooks.com;North Crystal;2019-04-27
+75;Martin Foster;beltranjames@gmail.com;East Richard;2016-10-27
+76;Jessica Quinn;murphyronald@conner.com;North Scottchester;2019-04-11
+77;Scott Richardson;sanchezmonica@hotmail.com;East Richardshire;2022-08-08
+78;Steven Lindsey;ncain@evans.info;Ramirezstad;2023-04-10
+79;Christina Watkins;richard58@yahoo.com;Scotttown;2018-07-08
+80;Jay Anderson;smithjonathan@reynolds.info;Bradleyshire;2020-02-06
+81;Jesus Oneill;bradfordcarl@gmail.com;Bentleyton;2015-11-15
+82;John Reynolds;gonzalezjacob@myers.biz;Lake Christinafort;2019-11-20
+83;Tiffany Sutton;suzanne06@fisher.com;North Erica;2019-07-26
+84;Paul Velazquez;michaelhill@king-thomas.org;New Tyler;2015-12-07
+85;Sarah Adams;craig32@wright.com;Louisshire;2022-03-30
+86;Charles Powell;bergerlauren@gmail.com;Margarethaven;2020-01-02
+87;Kimberly Gonzales;jerry66@hahn.net;Georgeshire;2020-12-21
+88;Glenn Adkins;raymond30@boyer.info;South Mckenzie;2018-03-15
+89;Chase Berg;darleneanderson@young.com;West Nataliemouth;2020-01-12
+90;Joseph Williams;boydlisa@gmail.com;North Lindafurt;2015-05-11
+91;Kelli Soto;miguel51@baldwin.com;West Rosechester;2016-03-27
+92;Robin Brown;laurenanderson@gmail.com;East Paigemouth;2024-08-18
+93;Michelle Boyd;denisecox@henderson-davis.com;Josefurt;2016-03-06
+94;Rhonda Manning;andrewstein@yahoo.com;North Courtney;2018-01-15
+95;Janice Morris;hmueller@yahoo.com;New Davidborough;2022-10-21
+96;Larry Ayala;daniel77@gmail.com;Joshuaville;2021-04-20
+97;Andrew Navarro;ijones@gmail.com;Jenniferview;2016-06-02
+98;Susan Evans;mmcbride@hotmail.com;West Ericaville;2023-04-11
+99;Larry Lynch;bobby12@gmail.com;South Jacqueline;2024-07-01
+100;Renee Smith;elizabethharvey@elliott-rodriguez.com;Hernandezborough;2024-12-01
