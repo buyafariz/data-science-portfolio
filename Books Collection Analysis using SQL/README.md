@@ -21,4 +21,4 @@ A mini project involving data analysis using SQL. The dataset used in this proje
 - Objective 5 (Book price analysis)
 
 ## Note
-On this platform, I only show the code that I created for this project. You can see a detailed description of my analysis process on the following page: www.medium.com
+On this platform, I only show the code that I created for this project. You can see a detailed description of my analysis process on the following page: https://medium.com/@buyaalfariz
