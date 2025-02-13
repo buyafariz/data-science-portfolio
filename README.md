@@ -10,9 +10,9 @@ Repository ini berisi kumpulan project mandiri yang saya kerjakan menggunakan SQ
 🥦 Vegetable Image Classification using CNN – Model klasifikasi gambar sayuran menggunakan Convolutional Neural Network (CNN).
 
 ## **Teknologi yang Digunakan**
-SQL: Data wrangling, querying, dan analisis
-Python: Exploratory Data Analysis (EDA), machine learning, dan visualisasi data
-Libraries: Pandas, NumPy, Matplotlib, Seaborn, TensorFlow
+SQL: Data wrangling, querying, dan analisis.  
+Python: Exploratory Data Analysis (EDA), machine learning, dan visualisasi data.  
+Libraries: Pandas, NumPy, Matplotlib, Seaborn, TensorFlow.
 
 💡 Jangan ragu untuk memberikan feedback atau berdiskusi!
 Jika Anda memiliki saran, pertanyaan, atau ingin berkolaborasi, silakan hubungi saya atau buat issue di repository ini. 🚀
