@@ -18,6 +18,6 @@ Libraries: Pandas, NumPy, Matplotlib, Seaborn, TensorFlow.
 Jika Anda memiliki saran, pertanyaan, atau ingin berkolaborasi, silakan hubungi saya atau buat issue di repository ini. 🚀
 
 ## **Kontak & Sumber Tambahan**
-- Medium: [Buya Al-Fariz](https://medium.com/@buyaalfariz)  
-- LinkedIn: [Buya Al-Fariz](https://linkedin.com/in/buyaalfariz)  
-- GitHub: [Buya Al-Farz](https://github.com/buyaalfariz)  
+- Medium: https://medium.com/@buyaalfariz  
+- LinkedIn: https://linkedin.com/in/buyaalfariz  
+- GitHub: https://github.com/buyaalfariz  
