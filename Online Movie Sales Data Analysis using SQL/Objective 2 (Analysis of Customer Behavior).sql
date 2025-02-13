@@ -13,7 +13,6 @@ GROUP BY city
 ORDER BY total_purchase DESC;
 
 -- Create a temporary table so that 'with' can be used multiple times
-DROP TEMPORARY TABLE IF EXISTS customers_movies;
 CREATE TEMPORARY TABLE customers_movies AS
 WITH customers_movies AS (
     SELECT name, genre, c.city AS city, m.title AS title
