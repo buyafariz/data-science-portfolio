@@ -5,7 +5,7 @@ Hello, terima kasih telah berkunjung! 👋
 Repository ini berisi kumpulan project mandiri yang saya kerjakan menggunakan SQL dan Machine Learning. Setiap proyek mencakup eksplorasi data, analisis, serta penerapan algoritma untuk mendapatkan wawasan yang bernilai. Saya berharap repository ini dapat bermanfaat bagi siapa saja yang tertarik mempelajari data science, baik untuk referensi maupun inspirasi dalam mengembangkan proyek serupa.
 
 ## **Daftar Proyek**
-📚 Books Collection Analysis using SQL – Analisis koleksi buku menggunakan query SQL untuk menggali insight dari dataset.  
+📚 [Books Collection Analysis using SQL](https://github.com/buyafariz/data-science-portfolio/tree/main/Books%20Collection%20Analysis%20using%20SQL) – Analisis koleksi buku menggunakan query SQL untuk menggali insight dari dataset.  
 🎬 Online Movie Sales Data Analysis using SQL – Eksplorasi dan analisis penjualan film secara online dengan SQL.  
 🥦 Vegetable Image Classification using CNN – Model klasifikasi gambar sayuran menggunakan Convolutional Neural Network (CNN).
 
