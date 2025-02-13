@@ -12,9 +12,9 @@ This repository contains a collection of independent projects I have worked on u
 
 
 ## **Technologies Used**
-SQL: Data wrangling, querying, and analysis.  
-Python: Exploratory Data Analysis (EDA), machine learning, and data visualization.  
-Libraries: Pandas, NumPy, Matplotlib, Seaborn, TensorFlow.
+- SQL: Data wrangling, querying, and analysis.  
+- Python: Exploratory Data Analysis (EDA), machine learning, and data visualization.  
+- Libraries: Pandas, NumPy, Matplotlib, Seaborn, TensorFlow.
 
 💡 Feel free to provide feedback or start a discussion!
 If you have any suggestions, questions, or would like to collaborate, feel free to reach out or create an issue in this repository. 🚀
