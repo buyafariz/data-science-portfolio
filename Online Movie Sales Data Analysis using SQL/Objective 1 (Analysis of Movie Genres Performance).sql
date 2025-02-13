@@ -129,6 +129,3 @@ FROM movies INNER JOIN sales
 ON movies.movie_id = sales.movie_id
 GROUP BY sale_date
 ORDER BY num_movies DESC;
-
-SELECT COUNT(DISTINCT sale_date)
-FROM sales;
