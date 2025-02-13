@@ -1,23 +1,23 @@
 # **Data Science Portfolio**
 
-Hello, terima kasih telah berkunjung! 👋
+Hello, and welcome! 👋
 
-Repository ini berisi kumpulan project mandiri yang saya kerjakan menggunakan SQL dan Machine Learning. Setiap proyek mencakup eksplorasi data, analisis, serta penerapan algoritma untuk mendapatkan wawasan yang bernilai. Saya berharap repository ini dapat bermanfaat bagi siapa saja yang tertarik mempelajari data science, baik untuk referensi maupun inspirasi dalam mengembangkan proyek serupa.
+This repository contains a collection of independent projects I have worked on using SQL and Machine Learning. Each project includes data exploration, analysis, and the application of algorithms to extract valuable insights. I hope this repository can be useful for anyone interested in data science, whether for reference or inspiration to develop similar projects.
 
-## **Daftar Proyek**
-📚 [Books Collection Analysis using SQL](https://github.com/buyafariz/data-science-portfolio/tree/main/Books%20Collection%20Analysis%20using%20SQL) – Analisis koleksi buku menggunakan query SQL untuk menggali insight dari dataset.  
-🎬 [Online Movie Sales Data Analysis using SQL](https://github.com/buyafariz/data-science-portfolio/tree/main/Online%20Movie%20Sales%20Data%20Analysis%20using%20SQL) – Eksplorasi dan analisis penjualan film secara online dengan SQL.  
-🥦 [Vegetable Image Classification using CNN](https://github.com/buyafariz/data-science-portfolio/tree/main/Vegetable%20Image%20Classification%20using%20CNN) – Model klasifikasi gambar sayuran menggunakan Convolutional Neural Network (CNN).
+## **Project List**
+📚 [Books Collection Analysis using SQL](https://github.com/buyafariz/data-science-portfolio/tree/main/Books%20Collection%20Analysis%20using%20SQL) – Analyzing book collections using SQL queries to extract insights.  
+🎬 [Online Movie Sales Data Analysis using SQL](https://github.com/buyafariz/data-science-portfolio/tree/main/Online%20Movie%20Sales%20Data%20Analysis%20using%20SQL) – Exploring and analyzing online movie sales data with SQL.  
+🥦 [Vegetable Image Classification using CNN](https://github.com/buyafariz/data-science-portfolio/tree/main/Vegetable%20Image%20Classification%20using%20CNN) – Classifying vegetable images using Convolutional Neural Networks (CNN).
 
-## **Teknologi yang Digunakan**
-SQL: Data wrangling, querying, dan analisis.  
-Python: Exploratory Data Analysis (EDA), machine learning, dan visualisasi data.  
+## **Technologies Used**
+SQL: Data wrangling, querying, and analysis.  
+Python: Exploratory Data Analysis (EDA), machine learning, and data visualization.  
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, TensorFlow.
 
-💡 Jangan ragu untuk memberikan feedback atau berdiskusi!
-Jika Anda memiliki saran, pertanyaan, atau ingin berkolaborasi, silakan hubungi saya atau buat issue di repository ini. 🚀
+💡 Feel free to provide feedback or start a discussion!
+If you have any suggestions, questions, or would like to collaborate, feel free to reach out or create an issue in this repository. 🚀
 
-## **Kontak & Sumber Tambahan**
+## **Contact & Additional Resources**
 - Medium: https://medium.com/@buyaalfariz  
 - LinkedIn: https://linkedin.com/in/buyaalfariz  
 - GitHub: https://github.com/buyaalfariz  
