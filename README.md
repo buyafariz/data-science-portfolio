@@ -6,8 +6,8 @@ Repository ini berisi kumpulan project mandiri yang saya kerjakan menggunakan SQ
 
 ## **Daftar Proyek**
 📚 [Books Collection Analysis using SQL](https://github.com/buyafariz/data-science-portfolio/tree/main/Books%20Collection%20Analysis%20using%20SQL) – Analisis koleksi buku menggunakan query SQL untuk menggali insight dari dataset.  
-🎬 Online Movie Sales Data Analysis using SQL – Eksplorasi dan analisis penjualan film secara online dengan SQL.  
-🥦 Vegetable Image Classification using CNN – Model klasifikasi gambar sayuran menggunakan Convolutional Neural Network (CNN).
+🎬 [Online Movie Sales Data Analysis using SQL](https://github.com/buyafariz/data-science-portfolio/tree/main/Online%20Movie%20Sales%20Data%20Analysis%20using%20SQL) – Eksplorasi dan analisis penjualan film secara online dengan SQL.  
+🥦 [Vegetable Image Classification using CNN](https://github.com/buyafariz/data-science-portfolio/tree/main/Vegetable%20Image%20Classification%20using%20CNN) – Model klasifikasi gambar sayuran menggunakan Convolutional Neural Network (CNN).
 
 ## **Teknologi yang Digunakan**
 SQL: Data wrangling, querying, dan analisis.  
