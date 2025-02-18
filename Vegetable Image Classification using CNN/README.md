@@ -8,8 +8,8 @@ This project aims to develop a Convolutional Neural Network (CNN) model to perfo
   - Images were converted to numerical arrays and normalized to improve model performance.  
   - Data Augmentation is applied using ImageDataGenerator to improve model generalization.  
 
-2. CNN Architecture  
-The CNN model used consists of several main layers:
+2. CNN Architecture The CNN
+   model used consists of several main layers:
 - Convolutional Layer: Extracting features from an image with a 3x3 filter.
 - MaxPooling Layer: Reduce feature dimensions to improve computational efficiency.
 - Flatten Layer: Convert features into one-dimensional vectors.
