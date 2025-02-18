@@ -15,10 +15,9 @@ from keras.layers import Dropout
 
 
 ## Import Files
-train_path = "D:/Skripsi/Syntax/Vegetable/Vegetable Images/train"
-validation_path = "D:/Skripsi/Syntax/Vegetable/Vegetable Images/validation"
-test_path = "D:/Skripsi/Syntax/Vegetable/Vegetable Images/test"
-
+train_path = "...Vegetable/Vegetable Images/train"
+validation_path = "...Vegetable/Vegetable Images/validation"
+test_path = "...Vegetable/Vegetable Images/test"
 
 ## Define the Plot Images Function
 # list img_arr
@@ -52,7 +51,6 @@ def plot_images(image_categories):
     # display plot
     plt.show()
 
-
 ## Setting-up The Dataset
 # 1. Train Set
 train_gen = ImageDataGenerator(rescale=1/255)
@@ -68,7 +66,6 @@ test_image_generator = test_gen.flow_from_directory(test_path, target_size=(150,
 
 # Display class label
 class_map = dict([(v,k) for k, v in train_image_generator.class_indices.items()])
-
 
 ## Building CNN Model
 # Sequential CNN Model
@@ -100,7 +97,6 @@ model.add(Dense(128, activation='relu'))
 
 # Add fully connected layers (layer 9)
 model.add(Dense(15, activation='softmax'))
-
 
 ## Schematic Summary of The Model
 model.summary()
