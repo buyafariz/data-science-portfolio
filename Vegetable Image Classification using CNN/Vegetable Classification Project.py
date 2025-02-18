@@ -15,9 +15,9 @@ from keras.layers import Dropout
 
 
 ## Import Files
-train_path = "...Vegetable/Vegetable Images/train"
-validation_path = "...Vegetable/Vegetable Images/validation"
-test_path = "...Vegetable/Vegetable Images/test"
+train_path = "...Vegetable Images/train"
+validation_path = "...Vegetable Images/validation"
+test_path = "...Vegetable Images/test"
 
 ## Define the Plot Images Function
 # list img_arr
