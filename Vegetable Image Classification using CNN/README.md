@@ -3,7 +3,7 @@
 This project aims to develop a Convolutional Neural Network (CNN) model to perform vegetable image classification based on a dataset obtained from Vegetable Image Dataset - Kaggle. The model is designed to recognize 15 types of vegetables based on the images given as input.
 
 ## Methodologi
-1. Preprocessing Data
+1. Preprocessing Data  
   - The dataset is divided into three parts: Train, Validation, and Test.
   - Images were converted to numerical arrays and normalized to improve model performance.
   - Data Augmentation is applied using ImageDataGenerator to improve model generalization.
