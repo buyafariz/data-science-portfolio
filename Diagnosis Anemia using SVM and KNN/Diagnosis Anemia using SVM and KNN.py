@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 
 # load data
-data = pd.read_excel('D:\Skripsi\Syntax\Skripsi\SKILICARSLAN_Anemia_DataSet_2.xlsx')
+data = pd.read_excel('...\SKILICARSLAN_Anemia_DataSet_2.xlsx')
 data = data[['Gender', 'Hemoglobin', 'HCT', 'MCH', 'MCHC', 'MCV', 'RBC', 'Result']]
 
 # display data
