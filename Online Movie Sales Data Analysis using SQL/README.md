@@ -13,7 +13,7 @@ In this project, You played the role of a data analyst at an online movie stream
 
 ### The Objective:
 - Objective 1 (Analysis of Movie Genres Performance)
-- Objective 2 (Analysis of CUstomer Behavior)
+- Objective 2 (Analysis of Customer Behavior)
 - Objective 3 (Analysis of Sales Trend)
 - Objective 4 (Analysis of Price Optimization)
 
