@@ -4,16 +4,16 @@ This dashboard is created using Microsoft Excel to analyze and visualize sales d
 
 ## Methodology
 1. **Data Integration**
-  - Using XLOOKUP to connect Sales, Product, and Customer tables.  
+Using XLOOKUP to connect Sales, Product, and Customer tables.  
 
 2. **Data Processing**
-- Set up a Pivot Table for data aggregation by product category, city, and customer type..
+Set up a Pivot Table for data aggregation by product category, city, and customer type..
 
 3. **Data Visualization**
-- Create Pivot Charts (line charts, bar charts, and pie charts) to display Revenue trends, Percentage of product categories, Customer type distribution. and Sales per city and per product.
+Create Pivot Charts (line charts, bar charts, and pie charts) to display Revenue trends, Percentage of product categories, Customer type distribution. and Sales per city and per product.
 
 4. **Interactivity**
-- Using Slicer and Timeline, users can filter data by date, product, or location..
+Using Slicer and Timeline, users can filter data by date, product, or location..
 
 ## Final Results
 This dashboard successfully presents sales data analysis in an easy-to-understand format, with the following main features:
