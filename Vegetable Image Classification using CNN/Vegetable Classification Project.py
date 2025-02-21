@@ -102,14 +102,14 @@ model.add(Dense(15, activation='softmax'))
 model.summary()
 
 ## Model Prediction
-# Menyusun dan menyesuaikan model
+# Develop and customize the model
 early_stopping = keras.callbacks.EarlyStopping(patience=5)
 model.compile(optimizer='Adam', loss='categorical_crossentropy', metrics=['accuracy'])
 hist = model.fit(train_image_generator, epochs=100, verbose=1, validation_data=val_image_generator, steps_per_epoch=15000//3, validation_steps=3000//32, callbacks=early_stopping)
 model.evaluate(test_image_generator)
 
 # Target prediction
-test_image_path = "D:/Project/Vegetable Images/test/Pumpkin/1023.jpg"
+test_image_path = ".../Vegetable Images/test/Pumpkin/1023.jpg"
 
 # Define prediction function
 def generate_predictions(test_image_path, actual_label):
